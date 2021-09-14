@@ -8,4 +8,4 @@ aliyun_ddns 阿里云ddns python脚本
 #### 异常处理
 
 当然代码写得low，欢迎各位大神指导
-联系油箱：zqrloser@outlook.com
+>> 油象：zqrloser@outlook.com
