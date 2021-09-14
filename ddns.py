@@ -24,6 +24,7 @@ from aliyunsdkcore.client import AcsClient
     alapi_ipv4 阿里云获取子域名解析记录列表 Type值为A 
     alapi_ipv6 阿里云获取子域名解析记录列表 Type值为AAAA
     dir 获取当前目录
+    所有必填项全部用***代替
 """
 IPv4 = False
 IPv6 = False
